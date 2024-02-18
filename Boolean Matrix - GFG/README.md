@@ -33,3 +33,4 @@ and (2,0). Therefore, all cells in row
 <p><span style="font-size: 18px;"><strong>Your Task:</strong><br>You dont need to read input or print anything. Complete the function <strong>booleanMatrix()</strong> that takes the matrix as input parameter and modifies it <strong>in-place</strong>.</span></p>
 <p><span style="font-size: 18px;"><strong>Expected Time Complexity:</strong> O(R * C)<br><strong>Expected Auxiliary Space:</strong> O(R + C)&nbsp;</span></p>
 <p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ R, C ≤ 1000<br>0 ≤ matrix[i][j] ≤ 1</span></p></div>
+![](https://leetcard.jacoblin.cool/anjali074?ext=heatmap)
